@@ -1,4 +1,4 @@
-##Реализация тестового задания для Python.
+## Реализация тестового задания для Python.
 
 ### Задача: Smashing Wallpaper Downloader
 
