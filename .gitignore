@@ -1,0 +1,6 @@
+*.pyc
+.idea
+conf/
+venv/
+__pycache__
+downloads/
